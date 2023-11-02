@@ -12,17 +12,17 @@ Welcome to **Yangjean Lee**’s github.
 
 ## 🎞️ *Careers So Far:*
 
-
-
-프로그래밍을 본격적으로 공부하기 시작한 지 1년 미만인 비전공자 출신 새싹 개발자입니다.
-
+프로그래밍을 본격적으로 공부하기 시작한 지 1년 미만인 비전공자 출신 새싹 개발자입니다.<br>
 현재 천재 IT교육센터에서 운영하는 자바 풀스택 개발자 양성과정 3기에 참여 중입니다.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzynee&layout=compact)](https://github.com/lzynee/github-readme-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lzynee&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## 🛠️ *Stack of Skills:*
 
+### 🫡 Mainly developing for now:
 
-
-### Mainly developing for now:
 <div align=left>  
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -30,7 +30,8 @@ Welcome to **Yangjean Lee**’s github.
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ+Idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/eclipse ide-2c2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+  <img src="https://img.shields.io/badge/visual studio code-007acc?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
@@ -41,6 +42,17 @@ Welcome to **Yangjean Lee**’s github.
 </div>
 
 
-### Have Used At Least Once:
+### 😊 Have Used At Least Once:
 
-파이썬, 다트, 플러터, 안드로이드스튜디오, 이클립스, 아나콘다, google Colab, 피그마
+<div align=left> 
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">  
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
+  <img src="https://img.shields.io/badge/google colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">  
+</div>
+
