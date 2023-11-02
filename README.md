@@ -9,21 +9,26 @@
 # 💻 Hello, World!
 
 Welcome to **Yangjean Lee**’s github.
+<br><br><br><br>
+
+
 
 ## 🎞️ *Careers So Far:*
 
 프로그래밍을 본격적으로 공부하기 시작한 지 1년 미만인 비전공자 출신 새싹 개발자입니다.<br>
 현재 천재 IT교육센터에서 운영하는 자바 풀스택 개발자 양성과정 3기에 참여 중입니다.
+<br><br><br><br>
+
+
+
+## 🛠️ *Stack of Skills:* 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzynee&layout=compact)](https://github.com/lzynee/github-readme-stats)
-
-
-
-## 🛠️ *Stack of Skills:*
+<br><br>
 
 ### 🫡 Mainly developing for now:
 
-<div align=left>  
+<div align=center>  
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
@@ -41,10 +46,9 @@ Welcome to **Yangjean Lee**’s github.
   <br>  
 </div>
 
-
 ### 😊 Have Used At Least Once:
 
-<div align=left> 
+<div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">  
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
