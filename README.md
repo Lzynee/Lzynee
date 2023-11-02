@@ -4,7 +4,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flzynee%2Fhit-counter&count_bg=%234AC7D5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzynee&hide=contribs&hide_rank=true&theme=shadow_blue&height=195)](https://github.com/anuraghazra/github-readme-stats) 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Lzynee&theme=iceberg&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lzynee&theme=github-dark-dimmed)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # 💻 Hello, World!
 
@@ -16,7 +16,7 @@ Welcome to **Yangjean Lee**’s github.
 현재 천재 IT교육센터에서 운영하는 자바 풀스택 개발자 양성과정 3기에 참여 중입니다.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzynee&layout=compact)](https://github.com/lzynee/github-readme-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lzynee&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 ## 🛠️ *Stack of Skills:*
