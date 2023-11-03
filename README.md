@@ -23,9 +23,6 @@ Welcome to **Yangjean Lee**’s github.
 
 ## 🛠️ *Stack of Skills:* 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzynee&layout=compact)](https://github.com/lzynee/github-readme-stats)
-<br><br>
-
 ### 🫡 Mainly developing for now:
 
 <div align=center>  
