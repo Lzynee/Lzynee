@@ -4,7 +4,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flzynee%2Fhit-counter&count_bg=%234AC7D5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzynee&hide=contribs&hide_rank=true&theme=shadow_blue&height=195)](https://github.com/anuraghazra/github-readme-stats) 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Lzynee&theme=iceberg&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lzynee&theme=github-dark-dimmed)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 # 💻 Hello, World!
 
@@ -77,3 +77,7 @@ Welcome to **Yangjean Lee**’s github.
 | Oct 27, 2023 | uml_workout<br>https://github.com/Lzynee/uml_workout/ | - UML 차트 작성 연습 결과물 <br><br>- UML chart drawing workouts | <b>COMPLETED</b> |  |
 | Oct 12, 2023 | web_project<br>https://github.com/Lzynee/web_project.git | - 웹페이지 빌드 프로젝트 (클론코딩) <br><br>- Web page building (clone coding) | <b>*ON GOING*</b> | <div align=center><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></div> |
 | Oct 5, 2023 | java_exercise_200<br>https://github.com/Lzynee/java_exercise_200.git | - 문제 해결 역량 개발을 위한 개인 프로젝트<br><br>- Personal project for developing capability of problem solving | <b>*ON GOING*</b> | <div align=center><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/></div> |
+
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lzynee&theme=github-dark-dimmed)](https://github.com/ashutosh00710/github-readme-activity-graph)
