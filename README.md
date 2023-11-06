@@ -23,7 +23,7 @@ Welcome to **Yangjean Lee**’s github.
 
 ## 🛠️ *Stack of Skills:* 
 
-### 🫡 Mainly Developing for Now:
+### 😎 Mainly Developing for Now:
 
 <div>  
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
