@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=5c8ebb&text=&animation=twinkling&height=80)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tourney&weight=500&size=45&duration=3500&pause=3&color=1d467d&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Posse+vident+et+possunt.)](https://git.io/typing-svg)
-*Last Update On: 2, Nov, 2023* <br>
+*<div align=right> Last Update On: Nov 6, 2023 </div>* <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flzynee%2Fhit-counter&count_bg=%234AC7D5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzynee&hide=contribs&hide_rank=true&theme=shadow_blue&height=195)](https://github.com/anuraghazra/github-readme-stats) 
