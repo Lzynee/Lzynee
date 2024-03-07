@@ -26,11 +26,7 @@ Welcome to **Yangjean Lee**’s github.
 ### 😎 Mainly Developing for Now:
 
 <div>  
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-
-  <br>  
+  
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSP-000000?style=for-the-badge&logo=jsp&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -40,6 +36,14 @@ Welcome to **Yangjean Lee**’s github.
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>   
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 
+  <br>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+
+  <br>  
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
   <br>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
@@ -61,14 +65,14 @@ Welcome to **Yangjean Lee**’s github.
 
 ## 🗂️ *Projects:*
 
-| CREATION DATE | REPOSITORY | DESCRIPTION | STATUS | SKILL STACKS |
-| --- | --- | --- | --- | --- |
-| Nov 27, 2023 | momChannel<br>https://github.com/ChunjaeMomCh/MomChannel | - MVC2 모델의 웹페이지 구축 프로젝트<br><br>- MVC2-model-webpage building project | <b>*COMPLETED*</b> | <div align=center><div align=center><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></div> |
-| Nov 13, 2023 | jsp_mvcboard<br>https://github.com/Lzynee/jsp_mvcboard | - MyBatis 방식으로 자바와 쿼리를 분리한 CRUD 게시판 구현<br><br>- Realization of CRUD Board with separated Java and Query statements via MyBatis connection | <b>*COMPLETED*</b> | <div align=center><div align=center><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"></div>
-| Nov 4, 2023 | team3_project<br>https://github.com/Lzynee/team3_project | - 꽃 배달 서비스 컨셉의 CRUD 시스템 구축 <br><br>- CRUD system establishment with flower delivery service concept | <b>*COMPLETED*</b> | <div align=center><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"></div> |
-| Oct 27, 2023 | uml_workout<br>https://github.com/Lzynee/uml_workout/ | - UML 차트 작성 연습 결과물 <br><br>- UML chart drawing workouts | <b>COMPLETED</b> |  |
-| Oct 12, 2023 | web_project<br>https://github.com/Lzynee/web_project.git | - 웹페이지 빌드 프로젝트 (클론코딩) <br><br>- Web page building (clone coding) | <b>*ON GOING*</b> | <div align=center><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></div> |
-| Oct 5, 2023 | java_exercise_200<br>https://github.com/Lzynee/java_exercise_200.git | - 문제 해결 역량 개발을 위한 개인 프로젝트<br><br>- Personal project for developing capability of problem solving | <b>*ON GOING*</b> | <div align=center><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/></div> |
+| CREATION DATE | REPOSITORY | DESCRIPTION | STATUS |
+| --- | --- | --- | --- |
+| Dec 31, 2023 | [BookShop](https://github.com/ChunjaeBookShop/CHACK-IT) | Spring, JSP, MyBatis를 사용한 웹 페이지 구현<br>(Webpage building via Spring, JSP, and MyBatis) | <b>*COMPLETED*</b> | 
+| Nov 27, 2023 | [momChannel](https://github.com/ChunjaeMomCh/MomChannel) | MVC2 모델의 웹페이지 구축 프로젝트<br>(MVC2 model webpage building project) | <b>*COMPLETED*</b> |
+| Nov 13, 2023 | [jsp_mvcboard](https://github.com/Lzynee/jsp_mvcboard) | 자바와 쿼리를 분리한 CRUD 게시판 구현<br>(Realization of CRUD Board with separated Java and Query statements | <b>*COMPLETED*</b> |
+| Nov 4, 2023 | [team3_project](https://github.com/Lzynee/team3_project) | 꽃 배달 서비스 컨셉의 CRUD 시스템 구축<br>(CRUD system establishment with flower delivery service concept) | <b>*COMPLETED*</b> |
+| Oct 12, 2023 | [web_project](https://github.com/Lzynee/web_project.git) | [FE] 웹페이지 클론코딩 프로젝트<br>(Web page building (clone coding)) | <b>*NOT WORKING*</b> |
+| Oct 5, 2023 | [java_exercise_200](https://github.com/Lzynee/java_exercise_200.git) | 문제 해결 역량 개발을 위한 개인 프로젝트<br>(Personal project to develop problem solving capability) | <b>*NOT WORKING*</b> |
 
 <br>
 
