@@ -69,7 +69,7 @@ Welcome to **Yangjean Lee**’s github.
 | --- | --- | --- | --- | --- |
 | Jan 23, 2023 | Team | [ClassArchive](https://github.com/ChunjaeBookShop/Class-Archive) | Spring Boot, JSP, MyBatis, AWS를 사용하여 실 서비스의 관리자 기능 구현<br>(Realization of the admin system from an actual service) | - 공지사항 기능 구현<br>- 검색 및 페이징 기능 구현 | 
 | Jan 5, 2023 | Team | [BookShop](https://github.com/ChunjaeBookShop/CHACK-IT) | Spring, JSP, MyBatis를 사용한 IT 전문 도서 쇼핑몰 서비스 구축<br>(Establishment of an IT specialized book shopping mall service) | - FE 구현<br>- 메인 화면 구성<br>- 상품 상세 기능 구현 | 
-| Dec 30, 2023 | Personal | [bookmarket](https://github.com/Lzynee/bookmarket) | Spring, JSP, MyBatis를 사용하여 도서 쇼핑몰 웹 페이지 구현<br>(Realization of a book shopping mall web page) | - FE 구현<br>- 메인 화면 구성<br>- 상품 상세 기능 구현 | 
+| Dec 30, 2023 | Personal | [bookmarket](https://github.com/Lzynee/bookmarket) | Spring, JSP, MyBatis를 사용하여 도서 쇼핑몰 웹 페이지 구현<br>(Realization of a book shopping mall web page) | - | 
 | Nov 27, 2023 | Team | [momChannel](https://github.com/ChunjaeMomCh/MomChannel) | MVC2 모델의 웹페이지 구축 프로젝트<br>(MVC2 model webpage building project) | - post 게시판 구현<br>- FE 구현  |
 | Nov 13, 2023 | Personal | [jsp_mvcboard](https://github.com/Lzynee/jsp_mvcboard) | 자바와 쿼리를 분리한 CRUD 게시판 구현<br>(Realization of CRUD Board with separated Java and Query statements | - |
 | Oct 12, 2023 | Personal | [web_project](https://github.com/Lzynee/web_project.git) | [FE] 웹페이지 클론코딩 프로젝트<br>(Web page building (clone coding)) | - |
